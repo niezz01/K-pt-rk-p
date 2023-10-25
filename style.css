@@ -1,0 +1,52 @@
+body{
+    text-align: justify;
+    background-color: burlywood;
+    
+}
+.kep{
+    margin: 10px;
+    border: solid 1px black;
+    
+
+}
+.bal{
+    float: left;
+
+}
+
+.jobb{
+    float: right;
+
+}
+.ez{
+    width: 1000px;
+    margin: auto;
+    padding: 20;
+
+
+}
+#kozep{
+   
+    text-align: center;
+
+}
+p{
+    text-align: justify;
+
+}
+
+#lista{
+    text-align: justify;
+    font-size: 90%;
+
+}
+
+a{
+    color:brown;
+}
+
+div{
+    border-radius: 30px;
+    background-color: beige;
+    padding:20px;
+}
