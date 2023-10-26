@@ -6,6 +6,7 @@ body{
 .kep{
     margin: 10px;
     border: solid 1px black;
+    width: 250px;
     
 
 }
@@ -49,4 +50,8 @@ div{
     border-radius: 30px;
     background-color: beige;
     padding:20px;
+}
+h1{
+    text-align: center;
+
 }
