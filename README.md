@@ -17,8 +17,8 @@
 - Téma megbeszélése
 - Képek keresése
 - Iskolák elosztása
-- Munka ellenőrzése és feltöltése Githubra
 - Dokumentáció elkészítése
+- Munka ellenőrzése és feltöltése Githubra
   
   ---
 ### [Szigeti Endre Suli](https://szeszi.hu/)
